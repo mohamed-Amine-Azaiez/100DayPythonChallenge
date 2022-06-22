@@ -1,6 +1,6 @@
 from os import system
 import art
-#system('cls')
+
 
 print(art.logo)
 print("Welcome to The secret auction program.")
